@@ -110,7 +110,7 @@
   width: 80%;
   height: 550px;
   background: white;
-  color: black;
+  color: rgb(69, 6, 105);
   margin-bottom: 20px;
 }
 
@@ -139,7 +139,7 @@
 }
 
 .resume-right-col {
-  background: #27221f;
+  background: #5999d4;
   padding: 0px 20px;
   padding-top: 0px;
   margin-top: 0px;

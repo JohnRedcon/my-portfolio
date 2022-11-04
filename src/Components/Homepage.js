@@ -10,20 +10,19 @@ class Homepage extends Component {
             <div className="profile-img-border">
               <img
                 className="profile-img"
-                src="images/DSC_5211-00.jpg"
-                alt="Ismail"
+                src="images/Tshegofatso Nkutshweu.jpg"
+                alt="Tshegofatso Nkutshweu"
               />
             </div>
             <div className="banner-text">
-              <h1>Asp .Net Full Stack Developer</h1>
+              <h1>Aspiring Full Stack Developer</h1>
               <hr />
               <p>
-                HTML | CSS | BOOTSTRAP | PHP | MYSQL | C# | ASP .NET CORE | SQL
-                SERVER
+                HTML | CSS | JAVA | MYSQL | PYTHON | 
               </p>
               <div className="social-links">
                 {/* LinkedIn */}
-                <a
+                {/* <a
                   href="http://facebook.com/ismail96.12"
                   rel="noopener noreferrer"
                   target="_blank"
@@ -33,9 +32,9 @@ class Homepage extends Component {
                     className="fa fa-facebook-official"
                     aria-hidden="true"
                   ></i>{" "}
-                </a>
+                </a> */}
                 {/* LinkedIn */}
-                <a
+                {/* <a
                   href="https://twitter.com/ismail_miah_2"
                   rel="noopener noreferrer"
                   target="_blank"
@@ -45,10 +44,10 @@ class Homepage extends Component {
                     className="fa fa-twitter-square"
                     aria-hidden="true"
                   ></i>{" "}
-                </a>
+                </a> */}
                 {/* LinkedIn */}
                 <a
-                  href="https://github.com/ismaelmiah"
+                  href="https://github.com/JohnRedcon"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
@@ -60,7 +59,7 @@ class Homepage extends Component {
                 </a>
                 {/* LinkedIn */}
                 <a
-                  href="https://www.linkedin.com/in/ismaelmiah/"
+                  href="https://www.linkedin.com/in/tshegofatsoamandankutshweu/"
                   rel="noopener noreferrer"
                   target="_blank"
                 >

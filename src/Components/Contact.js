@@ -7,12 +7,12 @@ class Contact extends Component {
       <div className="contact-body">
         <Grid className="contact-grid">
           <Cell col={6}>
-            <h2>Ismael Miah</h2>
+            <h2>Tshegofatso Nkutshweu</h2>
             <img style={{height: '250px'}} src="https://cdn2.iconfinder.com/data/icons/avatar-2/512/Fred_man-512.png" alt="avatar" />
             <p style={{width: '75%', margin: 'auto', paddingTop: '1em'}}>
-              I have been very passionate about computers and programming since
-              my university life. I’m able to work well under pressure and adhere to strict deadlines.
-              Being worked for different projects helped me to adapt to the changes quickly and made me a mature team worker.
+            I have had a deep enthusiasm for computers and programming since university. 
+            I can work effectively under duress and meet deadlines that are very specific. 
+            Working on many WeThinkCode_ projects helped me adapt to changes fast and developed me as a mature team player.
             </p>
           </Cell>
           <Cell col={6}>
@@ -22,10 +22,10 @@ class Contact extends Component {
                   
               <List>
                   <ListItem>
-                      <ListItemContent style={{fontSize: '25px', fontFamily: 'Anton'}}><i className="fa fa-phone-square" aria-hidden='true'></i>+880 1642259188</ListItemContent>
+                      <ListItemContent style={{fontSize: '25px', fontFamily: 'Anton'}}><i className="fa fa-phone-square" aria-hidden='true'></i>+27 762516155</ListItemContent>
                   </ListItem>
                   <ListItem>
-                      <ListItemContent style={{fontSize: '25px', fontFamily: 'Anton'}}><i className="fa fa-envelope" aria-hidden='true'></i>ismaelmiah.swe@gmail.com</ListItemContent>
+                      <ListItemContent style={{fontSize: '25px', fontFamily: 'Anton'}}><i className="fa fa-envelope" aria-hidden='true'></i>amandankutshweu@gmail.com</ListItemContent>
                   </ListItem>
               </List>
               </div>
