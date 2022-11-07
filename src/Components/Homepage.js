@@ -21,31 +21,7 @@ class Homepage extends Component {
                 HTML | CSS | JAVA | MYSQL | PYTHON | 
               </p>
               <div className="social-links">
-                {/* LinkedIn */}
-                {/* <a
-                  href="http://facebook.com/ismail96.12"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  {" "}
-                  <i
-                    className="fa fa-facebook-official"
-                    aria-hidden="true"
-                  ></i>{" "}
-                </a> */}
-                {/* LinkedIn */}
-                {/* <a
-                  href="https://twitter.com/ismail_miah_2"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  {" "}
-                  <i
-                    className="fa fa-twitter-square"
-                    aria-hidden="true"
-                  ></i>{" "}
-                </a> */}
-                {/* LinkedIn */}
+               
                 <a
                   href="https://github.com/JohnRedcon"
                   rel="noopener noreferrer"

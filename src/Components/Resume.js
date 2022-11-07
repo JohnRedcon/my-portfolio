@@ -22,9 +22,9 @@ class Resume extends Component {
             <h4 style={{ color: "grey" }}>Aspiring Full Stack Developer</h4>
             <hr style={{ borderTop: "2px solid #833fb2", width: "50%" }} />
             <p style={{ textAlign: "justify" }}>
-              This is Tshegofatso Nkutshweu. I’m an enthusiastic, responsible, self-motivated and hard-working person.
-              I’m able to work well under pressure and adhere to strict deadlines.
-              Being worked for different projects helped me to adapt to the changes quickly and made me a mature team worker.
+              My name is Tshegofatso Nkutshweu, and I consider myself to be enthusiastic, responsible, self-driven, and diligent.
+I can work effectively under pressure and meet deadlines that are very specific.
+My experience working on many projects enabled me to rapidly adapt to changes and developed me as a mature team player.
             </p>
             <hr style={{ borderTop: "2px solid #833fb2", width: "50%" }} />
             <h5>Physical Address</h5>
@@ -44,11 +44,7 @@ class Resume extends Component {
               companyName={"Hello Computer"}
               jobDesc={
                 [
-                  "Improving functionality and incorporating new features as per requirements on a Communicative tool for building management to be used by owners, residents, building managers, and strata managers. StrataSpot Built using .Net Framework and MSSQL",
-                  "Worked on building different sections for the e-commerce platform of Transcom Digital. Built using NextJs, .Net Core 3.1 & MongoDB",
-                  "Enhancing features and improvements existing functionality of a social media platform for the Hawai’i-based volunteering students to organize, plan and collaborate as the Global Aloha initiative built using Angular, .Net Core 3.1 & PostgreSQL",
-                  "Supported frontend by providing Rest API.",
-                  "Revised, modularized and updated old code bases, reducing operating costs."
+                  "I was working assigned to update, write content and proof head content for the clients website using Umbraco."
                 ]
               }
             />
@@ -58,9 +54,10 @@ class Resume extends Component {
               jobName={"Internship"}
               companyName={"Ziko GPS Surveys"}
               jobDesc={[
-                "Worked on active development project. DevSkill built using Asp .Net-5 & MSSQL",
-                "Writing, improving & fixing Unit tests.",
-                "Designing & developing new features."
+                "I worked as a trainee, aim was to get first hand experience on field and administration work.",
+                "In my 1 year as a trainee I was assigned to complete a subdivision survey, beacon relocation for new RDP stands in Sabie Mpumalanga. ",
+                "I was taught how to correctly complete a levelling, triangulation, setting out and detail survey."
+                
               ]
               }
             />
@@ -69,8 +66,8 @@ class Resume extends Component {
             <hr style={{ borderTop: "3px solid #e22947" }} />
             <h2>Education</h2>
             <Education
-              StartYear={2021}
-              EndYear={2023}
+              StartYear={2016}
+              EndYear={2019}
               Institution={"Tshwane University of Technology"}
               Qualification={"National Diploma in Surveying"}
 

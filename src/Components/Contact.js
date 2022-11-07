@@ -8,7 +8,7 @@ class Contact extends Component {
         <Grid className="contact-grid">
           <Cell col={6}>
             <h2>Tshegofatso Nkutshweu</h2>
-            <img style={{height: '250px'}} src="/build/images/java.jpg" alt="avatar" />
+            <img style={{height: '250px'}} src="images/java.jpg" alt="avatar" />
             <p style={{width: '75%', margin: 'auto', paddingTop: '1em'}}>
             I have had a deep enthusiasm for computers and programming since university. 
             I can work effectively under duress and meet deadlines that are very specific. 
@@ -22,7 +22,7 @@ class Contact extends Component {
                   
               <List>
                   <ListItem>
-                      <ListItemContent style={{fontSize: '25px', fontFamily: 'Anton'}}><i className="fa fa-phone-square" aria-hidden='true'></i>+27 762516155</ListItemContent>
+                      <ListItemContent style={{fontSize: '25px', fontFamily: 'Anton'}}><i className="fa fa-phone-square" aria-hidden='true'></i>+27 762516155/ +27 659194892</ListItemContent>
                   </ListItem>
                   <ListItem>
                       <ListItemContent style={{fontSize: '25px', fontFamily: 'Anton'}}><i className="fa fa-envelope" aria-hidden='true'></i>amandankutshweu@gmail.com</ListItemContent>
