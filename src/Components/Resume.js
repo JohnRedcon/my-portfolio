@@ -22,35 +22,18 @@ class Resume extends Component {
             <h4 style={{ color: "grey" }}>Aspiring Full Stack Developer</h4>
             <hr style={{ borderTop: "2px solid #833fb2", width: "50%" }} />
             <p style={{ textAlign: "justify" }}>
-              This is Ismael Miah. I’m an enthusiastic, responsible, self-motivated and hard-working person.
+              This is Tshegofatso Nkutshweu. I’m an enthusiastic, responsible, self-motivated and hard-working person.
               I’m able to work well under pressure and adhere to strict deadlines.
               Being worked for different projects helped me to adapt to the changes quickly and made me a mature team worker.
             </p>
             <hr style={{ borderTop: "2px solid #833fb2", width: "50%" }} />
-            <h5>Address</h5>
-            <p>20A Itumeleng Street, Meadowlands, Soweto, </p>
-            <h5>Phone</h5>
-            <p>(+27) 762516155</p>
-            <h5>Email</h5>
+            <h5>Physical Address</h5>
+            <p>6 Yale, The Campus, Van Dalen North Road, Ruimsig, Johannesburg </p>
+            <h5>Phone Numbers</h5>
+            <p>(+27) 762516155/ (+27) 659194892</p>
+            <h5>Email Address</h5>
             <p>amandankutshweu@gmail.com</p>
-            {/* <h5>Web</h5> */}
-            {/* <a
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{ textDecoration: "none" }}
-              href="https://talent-programmer.blogspot.com"
-            >
-              My Programming Blog
-            </a> */}
-            {/* <h5>Download CV</h5>
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{ textDecoration: "none" }}
-              href="https://drive.google.com/file/d/10pokHihjguFSTzuqX__xeXbvNRR-Vpvj/view?usp=sharing"
-            >
-              My Update CV
-            </a> */}
+          
           </Cell>
           <Cell className="resume-right-col" col={8}>
             <h2>Experience</h2>
@@ -81,41 +64,16 @@ class Resume extends Component {
               ]
               }
             />
-            {/* <Experience
-              startYear={"December 2020"}
-              endYear={"January 2021"}
-              duration= {2}
-              jobName={"Internee"}
-              companyName={"ASTHA IT"}
-              jobDesc={
-                [
-                  "It was a part-time Internship program " ,
-                   "I have completed several assignments that provided by Senior Software Engineers",
-                "I learnt lot of tech things from this company I now had a chance to test my knowledge in the real world through an internship."]
-              } */}
-            {/* /> */}
-            {/* <Experience
-              startYear={"Spring 2019"}
-              endYear={"Fall 2019"}
-              duration= {12}
-              jobName={"ACM Trainer"}
-              companyName={"Daffodil International University"}
-              jobDesc={["Teach C Programming Language 1st year students", "Introduced them to CP world", "Made several team out of them"]}
-            /> */}
-            {/* <Experience
-              startYear={"Spring 2020"}
-              endYear={"Summer 2020"}
-              duration= {4}
-              jobName={"ACM Problem Setter"}
-              companyName={"Daffodil International University"}
-              jobDesc={
-                ["Problem setter on DIU Take OFF Programming Contest And Several others contest at Daffodil"]
-              }
-            /> */}
+          
 
             <hr style={{ borderTop: "3px solid #e22947" }} />
             <h2>Education</h2>
             <Education
+              StartYear={2021}
+              EndYear={2023}
+              Institution={"Tshwane University of Technology"}
+              Qualification={"National Diploma in Surveying"}
+
               startYear={2021}
               endYear={2023}
               schoolName={"WeThinkCode_"}
@@ -127,12 +85,9 @@ class Resume extends Component {
             <Skills skill={"Java"} progress={60} />
             <Skills skill={"Python"} progress={70} />
             <Skills skill={"CSS"} progress={80} />
-            {/* <Skills skill={"Asp .Net Core"} progress={90} /> */}
-            {/* <Skills skill={"MySQL"} progress={80} /> */}
+
             <hr style={{ borderTop: "3px solid #e22947" }} />
-            {/* <h2>Achievments</h2>
-            <h6>6th at SWE Junior Programming Contest (03/2019)</h6>
-            <h6>9th Position at DIU TakeOff Programming Contest (04/2017)</h6> */}
+           
           </Cell>
         </Grid>
       </div>

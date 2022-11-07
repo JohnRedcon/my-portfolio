@@ -8,7 +8,7 @@ class Contact extends Component {
         <Grid className="contact-grid">
           <Cell col={6}>
             <h2>Tshegofatso Nkutshweu</h2>
-            <img style={{height: '250px'}} src="https://cdn2.iconfinder.com/data/icons/avatar-2/512/Fred_man-512.png" alt="avatar" />
+            <img style={{height: '250px'}} src="/build/images/java.jpg" alt="avatar" />
             <p style={{width: '75%', margin: 'auto', paddingTop: '1em'}}>
             I have had a deep enthusiasm for computers and programming since university. 
             I can work effectively under duress and meet deadlines that are very specific. 
